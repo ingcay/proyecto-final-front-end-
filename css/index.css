@@ -1,0 +1,46 @@
+*{
+box-sizing: border-box
+}
+
+
+h1{
+font-size: 1.3em;
+text-align: center;
+
+}
+
+h2{
+font-size: 1.3em;
+text-align: center;
+}
+
+span{
+color:#037BC0
+}
+
+body{
+margin: 0;
+}
+
+.hero{
+background: url("../img/principal.jpg");
+height: 700px;
+margin-top: 5em;
+}
+
+.producto-1{
+background: url("../img/producto.jpg");
+height: 700px;
+justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+   
